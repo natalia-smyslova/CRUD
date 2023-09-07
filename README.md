@@ -1,5 +1,7 @@
 [![Netology AHJ](https://github.com/natalia-smyslova/CRUD/actions/workflows/web.yml/badge.svg)](https://github.com/natalia-smyslova/CRUD/actions/workflows/web.yml)  
 
+[![Build status](https://ci.appveyor.com/api/projects/status/hbb024njjfbn3usq?svg=true)](https://ci.appveyor.com/project/natalia-smyslova/crud)
+  
 
 
 

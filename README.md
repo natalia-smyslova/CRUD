@@ -1,3 +1,9 @@
+[![Netology AHJ](https://github.com/natalia-smyslova/CRUD/actions/workflows/web.yml/badge.svg)](https://github.com/natalia-smyslova/CRUD/actions/workflows/web.yml)  
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
